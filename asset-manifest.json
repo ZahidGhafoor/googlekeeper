@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/googlekeeper/static/css/main.dd5c61df.chunk.css",
+    "main.js": "/googlekeeper/static/js/main.65ec7206.chunk.js",
+    "main.js.map": "/googlekeeper/static/js/main.65ec7206.chunk.js.map",
+    "runtime-main.js": "/googlekeeper/static/js/runtime-main.fb8611da.js",
+    "runtime-main.js.map": "/googlekeeper/static/js/runtime-main.fb8611da.js.map",
+    "static/js/2.53ae956b.chunk.js": "/googlekeeper/static/js/2.53ae956b.chunk.js",
+    "static/js/2.53ae956b.chunk.js.map": "/googlekeeper/static/js/2.53ae956b.chunk.js.map",
+    "index.html": "/googlekeeper/index.html",
+    "precache-manifest.99cef0b480606f058a143cc81368e771.js": "/googlekeeper/precache-manifest.99cef0b480606f058a143cc81368e771.js",
+    "service-worker.js": "/googlekeeper/service-worker.js",
+    "static/css/main.dd5c61df.chunk.css.map": "/googlekeeper/static/css/main.dd5c61df.chunk.css.map",
+    "static/js/2.53ae956b.chunk.js.LICENSE.txt": "/googlekeeper/static/js/2.53ae956b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/googlekeeper/static/media/logo.2a4d0e80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb8611da.js",
+    "static/js/2.53ae956b.chunk.js",
+    "static/css/main.dd5c61df.chunk.css",
+    "static/js/main.65ec7206.chunk.js"
+  ]
+}
