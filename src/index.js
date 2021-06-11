@@ -4,7 +4,7 @@
     // Importing Required Modules :
 import React from 'react';
 import ReactDOM from 'react-dom';
-import "./index.css";
+import "./index.scss";
 
     // Importing Main Component :
 import App from './App';

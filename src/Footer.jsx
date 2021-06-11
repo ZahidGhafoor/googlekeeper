@@ -5,7 +5,7 @@ const Footer = () => {
     return(
         <>
         <footer>
-          <p>Copyright © All Rights Reserved     !!! ZAHID</p>  
+          <p className="footer">Copyright © All Rights Reserved     || ZAHID</p>  
         </footer>
         
         

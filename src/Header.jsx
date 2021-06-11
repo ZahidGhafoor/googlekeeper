@@ -6,8 +6,8 @@ const Header = () => {
     return(
         <>
      <div className = "header">
-         <img src ={logo}alt = "logo" width = "70" height = "70" />
-        <h1> Zahid's Keep</h1>      
+         <img className="title_img" src ={logo}alt = "logo" />
+        <h1 className="title"> Zahid's Keep</h1>      
 
      </div>
         </>

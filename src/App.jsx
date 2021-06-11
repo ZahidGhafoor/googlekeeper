@@ -5,7 +5,7 @@ import CreateNote from './CreateNote';
 import Note from './Note';
 
 
-import "./app.css"
+import "./app.scss"
 
 const App = () => {
     const[addItem, setAddItem] = useState([])
