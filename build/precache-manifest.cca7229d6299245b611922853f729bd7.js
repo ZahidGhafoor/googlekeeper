@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3cc830304ccf9f626c5d02aca680dc9",
+    "revision": "ab4c6c10aa25bf63650dcfcd661be9dc",
     "url": "/googlekeeper/index.html"
   },
   {
-    "revision": "2f9f08ef7df08c0379fb",
-    "url": "/googlekeeper/static/css/main.dd5c61df.chunk.css"
+    "revision": "42c7541df7e2aa31fee8",
+    "url": "/googlekeeper/static/css/main.9b571138.chunk.css"
   },
   {
     "revision": "89d5bc9aba39d28b8eb2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/googlekeeper/static/js/2.53ae956b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f9f08ef7df08c0379fb",
-    "url": "/googlekeeper/static/js/main.65ec7206.chunk.js"
+    "revision": "42c7541df7e2aa31fee8",
+    "url": "/googlekeeper/static/js/main.a2209e61.chunk.js"
   },
   {
     "revision": "e40f96fe34eb58be7d90",
